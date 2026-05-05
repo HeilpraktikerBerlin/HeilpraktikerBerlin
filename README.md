@@ -1,4 +1,4 @@
-# Ich grüße andere Hobby-Coder 🌿  
+# Ich grüße andere Hobby-Coder und Patienten 🌿  
 
 <p align="center">  <img src="https://www.naturheilpraxis-homoeopathie-berlin.de/images/Schneegloeckchen_Frühlingswiese.jpg" alt="Schneeglöckchen – Frühlingswiese" style="max-width:100%;height:auto;border-radius:12px;box-shadow:0 6px 18px rgba(0,0,0,0.12)"/></p>
 
@@ -14,9 +14,8 @@ Ausführliche Anamnese und Behandlung - Begleitung akuter und chronischer Beschw
 Vor der Behandlung: bitte bestehende Medikamente und Vorerkrankungen angeben
 Abrechnung: nach GebüH
 ---
-## Kontakt & Termine
-**Heilpraktikerin Heike Gabriel — Behringstraße 21, 12437 Berlin (Treptow‑Köpenick)**
-[Website • Praxis & Termine](https://www.naturheilpraxis-homoeopathie-berlin.de/) · Tel: (+49) 151 4122 0865 · E‑Mail: Betreuung.Info@gmx.de
+## Meine Daten
+**Heilpraktikerin Heike Gabriel — Behringstraße 21, 12437 Berlin (Treptow‑Köpenick)**· Tel: (+49) 151 4122 0865 · E‑Mail: Betreuung.Info@gmx.de
 
 ---
 ## Verwendung & Lizenz- Empfohlene Lizenz für meine Repos & Materialien: **CC BY‑SA 4.0** — bitte Quelle angeben beim Weiterverwenden.
